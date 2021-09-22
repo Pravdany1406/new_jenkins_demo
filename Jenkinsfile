@@ -8,7 +8,7 @@ pipeline {
         stage('Demo') {
             steps {
                 echo 'Hello world'
-                helloWorld(config)
+                sayHello(config)
             }
         }
     }
