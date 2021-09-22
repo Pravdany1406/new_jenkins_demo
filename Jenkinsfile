@@ -1,4 +1,4 @@
- libraries {
+libraries {
      lib('pipeline-library-demo')
  }
 pipeline {
