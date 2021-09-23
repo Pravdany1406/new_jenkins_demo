@@ -2,4 +2,5 @@
 
 def config = [name: 'Dany', dayOfWeek: 'Friday']
 
+sayHello(config)
 
